@@ -1,6 +1,6 @@
 # ACF: WooCommerce Location Rules
 
-Custom ACF location rules for WooCommerce pages.
+Adds custom ACF location rules for WooCommerce pages.
 
 If you find this plugin useful, please consider sponsoring the development by clicking the Sponsor button or [directly through PayPal](https://paypal.me/ooksanen).
 
